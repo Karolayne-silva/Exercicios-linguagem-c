@@ -1,7 +1,8 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(){
   float altura;
+  
   printf("Digite sua altura:\n");
   scanf("%f", &altura);
 
@@ -10,6 +11,4 @@ int main(){
 
   return 0;
   
-}*/
-//Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas
-//(62.1*h) - 44.7 - mulher
+}
