@@ -1,7 +1,7 @@
 # Exercicios resolvidos na linguagem C
 Repositório com vários exercicios da linguagem c que fiz no primeiro período da faculdade de análise e desenvolvimento de sistemas.
 
-## Pasta - estrutura sequencial
+## Pasta - Estrutura sequencial
 
 ### Atividades propostas: 📓
 
@@ -50,3 +50,41 @@ comprar apenas latas de 18 litros;
 comprar apenas galões de 3,6 litros;
 misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 ***
+***
+## Pasta - Estrutura de decisão
+
+### Atividades propostas: 📓
+
+**Ex01** - Faça um Programa que peça dois números e imprima o maior deles.
+
+**Ex02** - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+
+**Ex03** - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+
+**Ex04** - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
+**Ex05** - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+A mensagem "Reprovado", se a média for menor do que sete;
+A mensagem "Aprovado com Distinção", se a média for igual a dez.
+
+**Ex06** - Faça um Programa que leia três números e mostre o maior deles.
+
+**Ex07** - Faça um Programa que leia três números e mostre o maior e o menor deles.
+
+**Ex08** - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+
+**Ex09** - Faça um Programa que leia três números e mostre-os em ordem decrescente.
+
+**Ex10** - Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+
+**Ex11** - As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
+Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
+salários até R$ 280,00 (incluindo) : aumento de 20%
+salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
+o salário antes do reajuste;
+o percentual de aumento aplicado;
+o valor do aumento;
+o novo salário, após o aumento.
