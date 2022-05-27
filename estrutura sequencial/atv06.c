@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 int main(){
@@ -11,6 +11,4 @@ int main(){
   
   return 0;
     
-}*/
-//Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
-//l^2
+}
