@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(){
   int valor, hora;
@@ -13,5 +13,4 @@ int main(){
 
   return 0;
   
-}*/
-//Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+}
