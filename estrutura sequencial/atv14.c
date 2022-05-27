@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-  /*int main(){
+  int main(){
     //declarar variáveis dos dois valores pedidos
     float valor1, valor2;
     
@@ -28,4 +28,4 @@
     printf("Seu salário liquido:%.1f\n",liquido);
     
     return 0;
-  }*/
+  }
