@@ -1,7 +1,8 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
   float excesso, multa, peso;
+  
   printf("Digite o peso do peixe: \n");
   scanf("%f", &peso);
 
@@ -18,4 +19,4 @@ int main(void) {
   }
   
   return 0;
-}*/
+}
