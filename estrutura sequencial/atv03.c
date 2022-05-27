@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main() {
   
@@ -16,4 +16,4 @@ float mediaNotas = soma/4;
 printf("A média das notas são: %.1f", mediaNotas);
 
 return 0;
-}*/
+}
