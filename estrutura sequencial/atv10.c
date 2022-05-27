@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 int main(){
@@ -20,9 +20,5 @@ int main(){
   printf("O terceiro valor elevado ao cubo é: %1.f", calc3);
 
   return 0;
-}*/
+}
 
-//Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre
-//o produto do dobro do primeiro com metade do segundo 
-//a soma do triplo do primeiro com o terceiro
-//o terceiro elevado ao cubo.
