@@ -1,9 +1,9 @@
 # Exercicios resolvidos na linguagem C
 Repositório com vários exercicios da linguagem c que fiz no primeiro período da faculdade de análise e desenvolvimento de sistemas.
 
-### Pasta - estrutura sequencial
+## Pasta - estrutura sequencial
 
-Atividades propostas: 📓
+### Atividades propostas: 📓
 
 **Atv01** - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
