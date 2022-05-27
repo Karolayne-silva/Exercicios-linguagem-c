@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 int main() {
@@ -10,5 +10,5 @@ int main() {
   printf("O valor da área é:%i",calc);
 
   return 0;
-}*/
+}
 //raio^2*pi
