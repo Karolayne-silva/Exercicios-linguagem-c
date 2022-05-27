@@ -1,6 +1,6 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
-int main(){ //declarar variável
+int main(){ 
 
   int numero; 
   //declare a função
@@ -11,4 +11,4 @@ int main(){ //declarar variável
   printf("O número informado foi %i", numero);
 
   return 0;
-}*/
+}
