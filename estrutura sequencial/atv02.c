@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
     int main() { // isso é uma variável
   
@@ -13,4 +13,4 @@
       printf("a soma dos numeros é: %i",soma);
     
   return 0;
-}*/
+}
